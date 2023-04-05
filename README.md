@@ -170,7 +170,7 @@ This request runs the tests defined at the folder level above, using the expecte
 
 **Cons**
 * It is potentially harder for someone new to the project to understand the Postman collection
-* Adding new requests can be more difficult unless you understand the collection structure
+* Adding new requests can be more difficult unless you understand the collection structure ---
 
 ### Running the tests
 The tests for each request will automatically be run when the corresponding request is sent. The tests can be run in the standard manner within Postman, i.e.
